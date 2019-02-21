@@ -13,7 +13,7 @@ public class Main {
         q3.addBook("Spring",103);
         q1.assignIssuer("Siddharth",201);
         q2.assignIssuer("Gaurav",202);
-        q3.assignIssuer("Vagheesh",203);
+        q3.assignIssuer("Vagish",203);
         System.out.println(q1);
         System.out.println(q2);
         System.out.println(q3);
@@ -27,6 +27,23 @@ public class Main {
 
         Ques7 q7 = new Ques7();
         q7.calculate(876543);
+        System.out.println("");
+
+        //Ques9
+        Furniture wooden = new Wooden();
+        Furniture metal = new Metal();
+        wooden.firetest();
+        wooden.stress();
+        metal.firetest();
+        metal.stress();
+        System.out.println("");
+
+        Ques11 q11=new Ques11();
+        q11.perform();
+        System.out.println("");
+
+        //Ques12
+        Child ch = new Child();
 
     }
 }

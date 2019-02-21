@@ -1,5 +1,6 @@
 public class Wooden extends Furniture{
 
+
     public void stress(){
         System.out.println("The Stress of wooden chair is low");
         System.out.println("The Stress of wooden table is low");
