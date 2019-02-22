@@ -1,4 +1,4 @@
-public class Customer {
+public class Customer extends Cashier{
     String name;
 
     public String getName() {

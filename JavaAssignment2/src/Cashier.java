@@ -1,5 +1,6 @@
 public class Cashier {
 
+
     String name;
     int age;
     Long contact;
@@ -7,6 +8,9 @@ public class Cashier {
         this.age=age;
         this.contact=contact;
         this.name=name;
+    }
+
+    public Cashier() {
     }
 
     public String getName() {

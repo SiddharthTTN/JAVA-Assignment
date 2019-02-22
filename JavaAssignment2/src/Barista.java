@@ -1,6 +1,9 @@
 public class Barista extends Cashier{
     private Order order;
 
+    public Barista() {
+    }
+
     Order getOrder() {
         return order;
     }
