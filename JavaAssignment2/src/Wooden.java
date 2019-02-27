@@ -1,15 +1,8 @@
-public class Wooden extends Furniture{
-
-
-    public void stress(){
-        System.out.println("The Stress of wooden chair is low");
-        System.out.println("The Stress of wooden table is low");
+public class Wooden extends Furniture {
+    public void stress(Type s) {
+        System.out.println("The Stress of Wooden " + s.name() +" is low");
     }
-    public void firetest(){
-
-        System.out.println("Wooden Chair catches fire easily");
-        System.out.println("Wooden Table catches fire easily");
-
+    public void firetest(Type s) {
+        System.out.println("Wooden " + s.name()+ " catches fire");
     }
-
 }

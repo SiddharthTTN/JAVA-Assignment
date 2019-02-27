@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Ques8 {
-    String str;
-    Scanner sc = new Scanner(System.in);
+class Ques8 {
+    private String str;
+    private Scanner sc = new Scanner(System.in);
 
     void perform() {
         System.out.println("Please enter the String");

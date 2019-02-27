@@ -1,5 +1,5 @@
 public class Ques13 extends Exception {
-    public Ques13(String s){
+    Ques13(String s) {
         super(s);
     }
 

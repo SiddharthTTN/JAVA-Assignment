@@ -1,16 +1,17 @@
 public class Cashier {
 
 
-    String name;
-    int age;
-    Long contact;
-    public Cashier(String name, int age, Long contact) {
-        this.age=age;
-        this.contact=contact;
-        this.name=name;
+    private String name;
+    private int age;
+    private Long contact;
+
+    Cashier(String name, int age, Long contact) {
+        this.age = age;
+        this.contact = contact;
+        this.name = name;
     }
 
-    public Cashier() {
+    Cashier() {
     }
 
     public String getName() {
@@ -19,8 +20,7 @@ public class Cashier {
 
     Order receivesOrder(Customer customer, float amount) {
         System.out.println(this.getName() + " receives an order from " + customer.getName() + " of Rs." + amount);
-        Order order = new Order(amount, customer, this);
-        return order;
+        return new Order(amount, customer, this);
     }
 
     void intimateCustomer(Customer customer) {

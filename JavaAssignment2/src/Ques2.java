@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Ques2 {
+class Ques2 {
     String str = "ToTheNew";
     String str1 = str.toLowerCase();
     String[] str3 = str1.split("");
@@ -33,8 +33,7 @@ public class Ques2 {
                 }
             }
         }
-        for (int i = 0; i < a.length; i++)
-        {
+        for (int i = 0; i < a.length; i++) {
             ch3[i] = (char) (a[i]);
         }
         System.out.println("Sorted String : " + new String(ch3));

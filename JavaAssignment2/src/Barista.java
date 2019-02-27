@@ -1,7 +1,7 @@
-public class Barista extends Cashier{
+class Barista extends Cashier {
     private Order order;
 
-    public Barista() {
+    Barista() {
     }
 
     Order getOrder() {

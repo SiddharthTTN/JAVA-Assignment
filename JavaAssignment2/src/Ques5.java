@@ -1,20 +1,20 @@
-public class Ques5 implements Cloneable
-
-{
+public class Ques5 implements Cloneable {
     String name;
     String city;
-    Ques5(){
+
+    Ques5() {
 
     }
-    Ques5(Ques5 obj){
-        this.name=obj.name;
-        this.city=obj.city;
+
+    Ques5(Ques5 obj) {
+        this.name = obj.name;
+        this.city = obj.city;
     }
 
-    public Ques5 clone() throws CloneNotSupportedException{
+    public Ques5 clone() throws CloneNotSupportedException {
         Ques5 clonedObj = (Ques5) super.clone();
-        clonedObj.city= new String((this.city));//Deep Copy
-        clonedObj.name= new String((this.name));//Deep Copy
+        clonedObj.city = new String((this.city));//Deep Copy
+        clonedObj.name = new String((this.name));//Deep Copy
         return clonedObj;
     }
 

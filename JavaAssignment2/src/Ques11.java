@@ -1,7 +1,6 @@
-public class Ques11 {
+class Ques11 {
 
-    public void perform()
-    {
+    void perform() {
         int s = 0;
         int t = 1;
 //        for (int i = 0; i < 10; i++)
@@ -16,14 +15,12 @@ public class Ques11 {
 //        }
 //        System.out.println("S is " + s);
 
-        int i=0;
-        while(i < 10)
-        {
+        int i = 0;
+        while (i < 10) {
             s = s + i;
             int j = i;
-            while (j > 0)
-            {
-                t= t * (j - i);
+            while (j > 0) {
+                t = t * (j - i);
                 j--;
             }
             s = s * t;

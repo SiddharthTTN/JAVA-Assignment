@@ -1,5 +1,5 @@
-public class Customer extends Cashier{
-    String name;
+public class Customer extends Cashier {
+    private String name;
 
     public String getName() {
         return name;

@@ -1,8 +1,6 @@
-class Grandparent
-{
+class Grandparent {
 
-    static
-    {
+    static {
         System.out.println("static - grandparent");
     }
 
@@ -15,35 +13,29 @@ class Grandparent
     }
 }
 
-class Parent extends Grandparent
-{
+class Parent extends Grandparent {
 
     {
         System.out.println("instance - parent");
     }
 
-    public Parent()
-    {
+    public Parent() {
         System.out.println("constructor - parent");
     }
 
-    static
-    {
+    static {
         System.out.println("static - parent");
     }
 }
 
 
-class Child extends Parent
-{
+class Child extends Parent {
 
-    public Child()
-    {
+    public Child() {
         System.out.println("constructor - child");
     }
 
-    static
-    {
+    static {
         System.out.println("static - child");
     }
 

@@ -1,9 +1,8 @@
-abstract  public class Furniture
-{
-    String Wooden="chair";
-
-    abstract void stress();
-    abstract void firetest();
-
+abstract class Furniture {
+    enum Type{
+        CHAIR,TABLE;
+    }
+    abstract void stress(Type s);
+    abstract void firetest(Type s);
 
 }

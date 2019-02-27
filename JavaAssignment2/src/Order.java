@@ -1,4 +1,4 @@
-public class Order extends Barista{
+public class Order extends Barista {
 
     private float amount;
     private Customer customer;
