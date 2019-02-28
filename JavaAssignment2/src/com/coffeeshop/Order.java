@@ -1,6 +1,8 @@
+package com.coffeeshop;
+
 public class Order extends Barista {
 
-    private float amount;
+    public float amount;
     private Customer customer;
     private Cashier cashier;
 

@@ -1,3 +1,5 @@
+package com.coffeeshop;
+
 public class Customer extends Cashier {
     private String name;
 

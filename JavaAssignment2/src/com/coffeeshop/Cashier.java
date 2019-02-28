@@ -1,9 +1,12 @@
+package com.coffeeshop;
+
 public class Cashier {
 
 
     private String name;
     private int age;
     private Long contact;
+    static int tokenNumber;
 
     Cashier(String name, int age, Long contact) {
         this.age = age;
@@ -23,7 +26,7 @@ public class Cashier {
         return new Order(amount, customer, this);
     }
 
-    void intimateCustomer(Customer customer) {
-        System.out.println(customer.getName() + " has to wait with current token : ");
+    void intimateCustomer(Customer customer , int tokenNumber) {
+        System.out.println(customer.getName() + " has to wait with current token : " + tokenNumber++);
     }
 }
