@@ -95,7 +95,7 @@ public class Main {
         Locale[] locale = DateFormat.getAvailableLocales();
         for (Locale l : locale) {
             DateFormat localeTime = DateFormat.getTimeInstance(DateFormat.SHORT, l);
-          //  System.out.println(localeTime.format(new Date()));
+             System.out.println(localeTime.format(new Date()));
         }
 
     }
