@@ -1,4 +1,4 @@
-package com.Ques1;
+package com.ques1;
 
 @FunctionalInterface
 public interface ConcatinateStrings {

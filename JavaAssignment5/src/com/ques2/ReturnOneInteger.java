@@ -1,4 +1,4 @@
-package com.Ques2;
+package com.ques2;
 
 @FunctionalInterface
 public interface ReturnOneInteger {

@@ -2,22 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ed04b1f-564b-4046-b560-8fb06074dddb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/furniture/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/furniture/Metal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/furniture/Wooden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques1/ChangeToUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques1/ConcatinateStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques1/IncrementNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques1/NumberGreaterOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques2/AddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques2/EmployeeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques2/MultiplyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques2/ReturnOneInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Ques2/SubtractNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/BOI.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/ICICI.class" beforeDir="false" />
@@ -49,27 +33,27 @@
       <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques8.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Wooden.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/com/lms/Ques1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Barista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/coffeeshop/Barista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/coffeeshop/Cashier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/coffeeshop/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Furniture.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Metal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/coffeeshop/Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Ques8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/Ques8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Wooden.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/Ques1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/LMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/LMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/LMS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Ques1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Ques1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaAssignment4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Ques1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Ques1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Ques3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Ques3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/src/Ques1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/src/Ques1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/src/Ques2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/src/Ques2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/src/Ques3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/src/Ques3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaAssignment5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaAssignment5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaAssignment5/com/Ques1/ChangeToUpperCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaAssignment5/com/Ques1/ChangeToUpperCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques1/ChangeToUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques1/ChangeToUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques1/ConcatinateStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques1/ConcatinateStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques1/IncrementNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques1/IncrementNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques1/NumberGreaterOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques1/NumberGreaterOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques2/AddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/AddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques2/EmployeeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques4/EmployeeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques2/MultiplyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/MultiplyNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques2/ReturnOneInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques2/ReturnOneInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Ques2/SubtractNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/SubtractNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test/src/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Parent.java" afterDir="false" />
     </list>
@@ -81,12 +65,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="216">
+              <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,28 +79,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Ques2/AddNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/com/ques3/MultiplyNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Ques2/Employee.java">
+        <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.202-amzn/src.zip!/java/util/function/Function.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+            <state relative-caret-position="117">
+              <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Ques2/EmployeeInterface.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ques3/AddNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ques3/SubtractNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ques4/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ques4/EmployeeInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -148,8 +159,10 @@
         <option value="$PROJECT_DIR$/src/com/Ques2/ReturnOneInteger.java" />
         <option value="$PROJECT_DIR$/src/com/Ques2/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/Ques2/AddNumbers.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/com/Ques2/EmployeeInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/ques2/EmployeeInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/ques4/EmployeeInterface.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -165,7 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,19 +202,19 @@
               <item name="JavaAssignment5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Ques2" type="462c0819:PsiDirectoryNode" />
+              <item name="ques4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551348475868" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551639182802" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -247,129 +260,137 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551333580427</updated>
-      <workItem from="1551333583934" duration="2469000" />
+      <workItem from="1551333583934" duration="2790000" />
+      <workItem from="1551634017728" duration="3356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2469000" />
+    <option name="totallyTimeSpent" value="6146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="700" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924694" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924694" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32924694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32924694" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Ques2/MultiplyNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Ques2/SubtractNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Ques1/IncrementNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ques1/IncrementNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Ques1/NumberGreaterOrNot.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ques1/NumberGreaterOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Ques1/ConcatinateStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ques1/ConcatinateStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Ques1/ChangeToUpperCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Ques2/ReturnOneInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ques2/ReturnOneInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques1/ChangeToUpperCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.202-amzn/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques4/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/MultiplyNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/AddNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/SubtractNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques4/EmployeeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="216">
+          <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Ques2/AddNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Ques2/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Ques2/EmployeeInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
         </state>
       </provider>
     </entry>
