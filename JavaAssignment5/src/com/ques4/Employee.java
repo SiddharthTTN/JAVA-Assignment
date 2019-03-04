@@ -1,8 +1,9 @@
 package com.ques4;
+
 public class Employee {
-    String name;
-    Integer age;
-    String city;
+    private String name;
+    private Integer age;
+    private String city;
 
     public Employee(String name, Integer age, String city) {
         this.name = name;
