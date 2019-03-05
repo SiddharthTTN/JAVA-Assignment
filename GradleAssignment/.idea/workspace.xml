@@ -1,16 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/Java-Assignments/GradleAssignment" value="PREVIEW" />
-        <entry key="$USER_HOME$/gradle-demo" value="PREVIEW" />
-      </map>
-    </option>
+  <component name="ChangeListManager">
+    <list default="true" id="eacb6168-dffd-4567-b88f-6caddf7ea06c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/BOI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/ICICI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques9$House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/SBI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Barista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Cashier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Furniture$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Furniture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Metal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Wooden.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/com/lms/Ques1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Ques8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/Ques8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/LMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/LMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Ques1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Ques1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Ques13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Ques13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques1/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques1/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Octagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Octagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Pentagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Pentagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Polygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/PolygonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/PolygonFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment6/src/com/ques2/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Parent.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1336" />
+    <option name="height" value="658" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GradleAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GradleAssignment" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="GradleAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaAssignment4" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eacb6168-dffd-4567-b88f-6caddf7ea06c" name="Default Changelist" comment="" />
+      <created>1551772268735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551772268735</updated>
+      <workItem from="1551772272235" duration="1594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1594000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="700" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.33099824" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
