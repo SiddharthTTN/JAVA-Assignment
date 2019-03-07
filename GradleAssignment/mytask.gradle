@@ -1,0 +1,4 @@
+task add << {
+    'git add .'.execute()
+    println "Files add to staging area"
+}
