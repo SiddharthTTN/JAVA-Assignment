@@ -1,4 +1,3 @@
 task add << {
-    'git add .'.execute()
-    println "Files add to staging area"
+   println "This is the mytask.gradle file"
 }

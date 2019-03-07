@@ -4,3 +4,43 @@
  * This is a general purpose Gradle build.
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds/
  */
+repositories {
+//    Exercise5
+    maven {
+        url 'http://jcenter.bintray.com/'
+    }
+}
+
+apply plugin: 'java'
+
+//    Exercise6
+apply from: 'mytask.gradle'
+
+sourceSets {
+    main {
+        java {
+//    Exercise2
+            srcDirs = ['src/main/java', 'src/main/java2']
+        }
+        resources {
+            srcDirs 'src/main/resources'
+//    Exercise3
+            exclude 'file1.txt'
+        }
+    }
+}
+dependencies {
+    compile 'org.apache.commons:commons-lang3:3.6'
+    implementation 'net.sourceforge.nekohtml:nekohtml:1.9.22'
+}
+jar {
+    manifest {
+//    Exercise1
+        attributes 'Main-Class': 'com.ttn.Exercise1'
+    }
+    baseName "Exercise1"
+    from {
+//    Exercise4
+        configurations.compileClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
