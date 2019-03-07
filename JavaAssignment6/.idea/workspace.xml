@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ec2edde-cb00-4223-97e4-0641f0bbd390" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ques6/Capsicum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradleAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GradleAssignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/BOI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/ICICI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques9$House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/SBI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Barista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Cashier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Furniture$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Furniture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Metal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Wooden.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/com/lms/Ques1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Ques8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/Ques8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/LMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/LMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Ques1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Ques1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Ques13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Ques13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques1/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques1/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques2/Octagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques2/Octagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques2/Pentagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques2/Pentagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques2/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques2/Polygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques2/PolygonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques2/PolygonFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques2/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques2/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/CarType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/CarType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/HatchbackCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/HatchbackCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/IndianCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/IndianCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/LuxuryCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/LuxuryCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/OtherCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/OtherCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/SedanCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/SedanCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques3/USACarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques3/USACarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques4/StudentBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques4/StudentBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques5/Blue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques5/Blue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques5/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques5/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques5/Pink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques5/Pink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques5/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques5/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques5/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques5/Red.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques5/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques5/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques5/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques5/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques5/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques5/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques6/FarmHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques6/Margherita.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques6/Olives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques6/Onions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques6/PanPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques6/Paneer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques6/Corns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques6/PeppyPaneer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques6/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques6/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques6/Toppings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques6/Veggies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques7/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques7/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques7/AdminDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques7/AdminDirectory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques7/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques7/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques7/DeveloperDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques7/DeveloperDirectory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques7/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques7/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques7/HR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques7/HR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques7/HRDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques7/HRDirectory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques8/CheckRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques8/CheckRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques8/ProxyUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques8/ProxyUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques8/Roles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques8/Roles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ques8/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ques8/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTestsAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTestsAssignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTestsAssignment/UnitTestsAssignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTestsAssignment/UnitTestsAssignment.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ques8/CheckRole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ques8/ProxyUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ques8/Roles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ques8/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ques2/Polygon.java" />
+        <option value="$PROJECT_DIR$/src/com/ques2/Square.java" />
+        <option value="$PROJECT_DIR$/src/com/ques2/Octagon.java" />
+        <option value="$PROJECT_DIR$/src/com/ques2/Pentagon.java" />
+        <option value="$PROJECT_DIR$/src/com/ques2/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/com/ques2/PolygonFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/ques1/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/ques4/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/ques4/StudentBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/ques5/Color.java" />
+        <option value="$PROJECT_DIR$/src/com/ques5/Red.java" />
+        <option value="$PROJECT_DIR$/src/com/ques5/Blue.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/FarmHouse.java" />
+        <option value="$PROJECT_DIR$/src/com/ques7/HRDirectory.java" />
+        <option value="$PROJECT_DIR$/src/com/ques3/CarType.java" />
+        <option value="$PROJECT_DIR$/src/com/ques5/Pink.java" />
+        <option value="$PROJECT_DIR$/src/com/ques5/Shape.java" />
+        <option value="$PROJECT_DIR$/src/com/ques5/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/ques5/Square.java" />
+        <option value="$PROJECT_DIR$/src/com/ques5/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/com/ques7/AdminDirectory.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/Toppings.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/Olives.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/Margherita.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/PeppyPaneer.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/PanPizza.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/Onions.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/Capsicum.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/com/ques6/Corns.java" />
+        <option value="$PROJECT_DIR$/src/com/ques7/Directory.java" />
+        <option value="$PROJECT_DIR$/src/com/ques7/Developer.java" />
+        <option value="$PROJECT_DIR$/src/com/ques7/DeveloperDirectory.java" />
+        <option value="$PROJECT_DIR$/src/com/ques3/USACarFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/ques3/SedanCar.java" />
+        <option value="$PROJECT_DIR$/src/com/ques3/CarFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/ques3/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/ques8/CheckRole.java" />
+        <option value="$PROJECT_DIR$/src/com/ques8/User.java" />
+        <option value="$PROJECT_DIR$/src/com/ques8/Roles.java" />
+        <option value="$PROJECT_DIR$/src/com/ques8/ProxyUser.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1346" />
+    <option name="height" value="658" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaAssignment6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignment6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignment6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignment6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignment6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignment6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAssignment6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaAssignment6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ques8" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551985794613" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaAssignment6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ec2edde-cb00-4223-97e4-0641f0bbd390" name="Default Changelist" comment="" />
+      <created>1551694176459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551694176459</updated>
+      <workItem from="1551694180495" duration="5025000" />
+      <workItem from="1551783295090" duration="393000" />
+      <workItem from="1551894669302" duration="5514000" />
+      <workItem from="1551979687108" duration="5960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16892000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="700" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49912435" visible="true" weight="0.26136363" />
+      <window_info id="Structure" order="1" sideWeight="0.50087565" side_tool="true" weight="0.26136363" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2591944" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32924694" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32924694" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32954547" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" x="0" y="0" width="291" height="500" id="Documentation" order="9" side_tool="true" weight="0.32954547" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/Paneer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/Veggies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/LuxuryCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques1/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques2/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques2/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques2/PolygonFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques2/Octagon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques2/Pentagon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques2/Polygon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques5/Blue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/8.0.202-amzn/src.zip!/java/awt/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="184" column="11" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="11" />
+          <folding>
+            <element signature="e#7322#7323#0" expanded="true" />
+            <element signature="e#7354#7355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaAssignment6.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques5/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques5/Pink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques5/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques5/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques5/Red.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques5/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques5/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/FarmHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/PeppyPaneer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/PanPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/Margherita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/Toppings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/Olives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/Capsicum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/Corns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/Onions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques6/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques7/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques7/AdminDirectory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques7/HR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques7/HRDirectory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques7/Directory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques7/Developer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques7/DeveloperDirectory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/IndianCarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/HatchbackCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/OtherCarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/SedanCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/USACarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques3/CarType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques8/CheckRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques8/Roles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques8/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ques8/ProxyUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaAssignment6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

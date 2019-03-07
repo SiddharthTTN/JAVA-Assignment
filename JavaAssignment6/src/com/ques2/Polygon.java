@@ -1,4 +1,5 @@
 package com.ques2;
 
-public class Polygon {
+public abstract interface Polygon {
+    String getType();
 }

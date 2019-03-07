@@ -1,4 +1,9 @@
 package com.ques3;
 
-public class HatchbackCar {
+class HatchbackCar extends Car {
+
+    HatchbackCar(Location location) {
+        super(CarType.HATCHBACK, location);
+    }
+
 }

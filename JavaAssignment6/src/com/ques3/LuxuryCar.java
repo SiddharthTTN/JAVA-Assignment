@@ -1,4 +1,9 @@
 package com.ques3;
 
-public class LuxuryCar {
+class LuxuryCar extends Car {
+
+    LuxuryCar(Location location) {
+        super(CarType.LUXURY, location);
+    }
+
 }

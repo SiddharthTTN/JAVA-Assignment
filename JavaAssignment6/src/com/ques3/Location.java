@@ -1,4 +1,6 @@
 package com.ques3;
 
-public class Location {
+//Fixed Locations of cars.
+public enum Location {
+    USA, INDIA, OTHER
 }
