@@ -15,4 +15,5 @@
     <bean class="com.listner.MyCustomListener"/>
     <bean class="com.aspect.Logging"/>
     <bean class="com.Database" name="database"/>
+    <bean class="Main" name="main"/>
 </beans>

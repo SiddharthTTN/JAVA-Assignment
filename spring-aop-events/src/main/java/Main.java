@@ -6,17 +6,13 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import java.io.IOException;
 
 public class Main {
-    private static void testMethod() {
-        try {
-            throw new IOException();
-        } catch (IOException e) {
-            //e.printStackTrace();
-            System.out.println("IO Exception is Generated");
-        }
 
+    public void testMethod() throws IOException {
+        System.out.println();
+        throw new IOException();
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         ConfigurableApplicationContext context = new ClassPathXmlApplicationContext("spring-config.xml");
 
         context.start();
@@ -29,10 +25,12 @@ public class Main {
         database.setPort(22);
         database.connect();
 
-        context.stop();
+        Main main = context.getBean("main", Main.class);
+        main.testMethod();
 
+        context.stop();
         context.close();
 
-        Main.testMethod();
+
     }
 }

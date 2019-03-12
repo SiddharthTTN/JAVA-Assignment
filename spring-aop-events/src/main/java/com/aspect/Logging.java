@@ -19,9 +19,11 @@ public class Logging {
         System.out.println("After the Method is invoked");
     }
 
-    @AfterThrowing(pointcut = "execution(* *())", throwing = "e")
+    @AfterThrowing(pointcut = "execution( * *())", throwing = "e")
     void afterReturningAdvice(IOException e) {
-        System.out.println("Running AfterThrowing IOException" + e);
+        System.out.println();
+        System.out.println("Running AfterThrowing IOException " + e);
+        System.out.println();
     }
 
     @Before("within(com.*)")
@@ -45,10 +47,11 @@ public class Logging {
     }
 
     @Pointcut("execution(void connect())")
-    void displayPointCut(){};
+    void displayPointCut() {
+    }
 
     @Before("displayPointCut()")
-    void beforeAdvicePointcutReuse(){
+    void beforeAdvicePointcutReuse() {
         System.out.println("This is invoked by reusing a Pointcut by using @Pointcut annotation");
     }
 
@@ -58,8 +61,8 @@ public class Logging {
         System.out.println(joinPoint);
         System.out.println(joinPoint.getThis());
         System.out.println(joinPoint.getSignature());
-        Object [] objects=joinPoint.getArgs();
-        for (Object object:objects){
+        Object[] objects = joinPoint.getArgs();
+        for (Object object : objects) {
             System.out.println(object);
         }
     }
