@@ -1,15 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/Gradle/gradle" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../GradleAssignment" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../gradle" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../gradleExample" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spock-demo-master" value="PREVIEW" />
-        <entry key="$USER_HOME$/gradle-demo" value="PREVIEW" />
-      </map>
+  <component name="ChangeListManager">
+    <list default="true" id="da127284-1189-469d-b87a-12f5203f868e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-boot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-access-and-transaction/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-access-and-transaction/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-access-and-transaction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-access-and-transaction/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-access-and-transaction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-access-and-transaction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-access-and-transaction/src/main/java/com/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-access-and-transaction/src/main/java/com/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data-access-and-transaction/src/main/resources/spring-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/spring-mvc.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradleAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GradleAssignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/BOI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/ICICI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques9$House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/Ques9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/JavaAssign1/SBI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/out/production/JavaAssignment1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Barista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Cashier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Furniture$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Furniture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Metal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Ques8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/Wooden.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/out/production/JavaAssignment2/com/lms/Ques1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/Ques8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/Ques8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/LMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment2/src/com/lms/LMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/out/production/JavaAssignment3/Ques2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Ques1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Ques1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment3/src/Ques13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment3/src/Ques13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/out/production/JavaAssignment4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringCoreAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCoreAssignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTestsAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTestsAssignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTestsAssignment/UnitTestsAssignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTestsAssignment/UnitTestsAssignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spock-demo-master/src/test/groovy/demo/service/EmailServiceSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../spock-demo-master/src/test/groovy/demo/service/EmailServiceSpec.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-aop-events/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aop-events/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-mvc" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-mvc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-mvc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-mvc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-mvc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="web application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapps/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapps/WEB-INF/spring-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -18,17 +219,311 @@
     <option name="width" value="1336" />
     <option name="height" value="658" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-mvc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-mvc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-mvc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-mvc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-mvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-mvc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552978984868" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.spring-mvc [tomcatStop]">
+    <configuration name="spring-mvc [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-mvc [tomcatRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tomcatRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-mvc [tomcatStop]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tomcatStop" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.spring-mvc [tomcatStop]" />
+        <item itemvalue="Gradle.spring-mvc [tomcatRun]" />
+        <item itemvalue="Gradle.spring-mvc [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da127284-1189-469d-b87a-12f5203f868e" name="Default Changelist" comment="" />
+      <created>1552893147611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552893147611</updated>
+      <workItem from="1552893151876" duration="48000" />
+      <workItem from="1552896934893" duration="2902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2950000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="700" extended-state="6" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36952713" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.33099824" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.15378788" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.2.5.RELEASE/4defda95bd56638dee17b63637f50dc8be771283/spring-webmvc-4.2.5.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="156" column="13" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : spring-mvc.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|spring-mvc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
