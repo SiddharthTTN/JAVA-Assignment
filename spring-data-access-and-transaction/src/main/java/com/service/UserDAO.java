@@ -1,4 +1,4 @@
-package com;
+package com.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -15,7 +15,7 @@ public class UserDAO {
     @Autowired
     DataSource dataSource;
 
-    void printUserNames() throws SQLException {
+    public void printUserNames() throws SQLException {
         Connection connection = dataSource.getConnection();
         PreparedStatement preparedStatement = connection.prepareStatement("SELECT * FROM user");
         ResultSet resultSet = preparedStatement.executeQuery();

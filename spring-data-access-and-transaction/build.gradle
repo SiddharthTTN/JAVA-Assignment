@@ -15,9 +15,12 @@ dependencies {
     compile('org.springframework:spring-core:5.0.6.RELEASE')
     compile('org.springframework:spring-context:5.0.6.RELEASE')
     compile('org.springframework:spring-bean:5.0.6.RELEASE')
-    compile('mysql:mysql-connector-java')
+    compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.15'
     compile group: 'org.springframework', name: 'spring-jdbc', version: '3.1.0.RELEASE'
-
+    compile group: 'org.apache.commons', name: 'commons-dbcp2', version: '2.6.0'
+    compile group: 'org.springframework', name: 'spring-orm', version: '5.1.5.RELEASE'
+    compile group: 'org.hibernate', name: 'hibernate-core', version: '5.4.1.Final'
+    compile group: 'springframework', name: 'spring-orm', version: '1.2.6'
 
 
 }
