@@ -1,3 +1,5 @@
+package com.springjpa.config;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
@@ -29,7 +31,7 @@ public class PersistenceContext {
                 new LocalContainerEntityManagerFactoryBean();
         entityManagerFactoryBean.setDataSource(dataSource);
         entityManagerFactoryBean.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
-        entityManagerFactoryBean.setPackagesToScan("com.springdata.entity");
+        entityManagerFactoryBean.setPackagesToScan("com.springjpa.entity");
 
         Properties jpaProperties = new Properties();
         jpaProperties.setProperty("hibernate.dialect", "org.hibernate.dialect.MySQLDialect");

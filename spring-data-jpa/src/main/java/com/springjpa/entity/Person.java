@@ -1,4 +1,4 @@
-package com.springjpa.enitity;
+package com.springjpa.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -10,7 +10,7 @@ public class Person {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
-    private String fistName;
+    private String firstName;
     private String lastName;
     private Integer salary;
     private Integer age;
@@ -23,12 +23,12 @@ public class Person {
         this.id = id;
     }
 
-    public String getFistName() {
-        return fistName;
+    public String getFirstName() {
+        return firstName;
     }
 
-    public void setFistName(String fistName) {
-        this.fistName = fistName;
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
     }
 
     public String getLastName() {
@@ -56,7 +56,7 @@ public class Person {
     }
 
     public Person(String fistName, String lastName, Integer salary, Integer age) {
-        this.fistName = fistName;
+        this.firstName = fistName;
         this.lastName = lastName;
         this.salary = salary;
         this.age = age;
@@ -69,7 +69,7 @@ public class Person {
     public String toString() {
         return "Person{" +
                 "id=" + id +
-                ", fistName='" + fistName + '\'' +
+                ", firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", salary=" + salary +
                 ", age=" + age +
