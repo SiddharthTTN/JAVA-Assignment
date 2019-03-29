@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercise 9</title>
+</head>
+<body>
+<header th:replace="Question6 :: header"></header>
+<label>User Type </label>
+<select id="userType">
+    <option th:value="None">Select One</option>
+    <option th:each="userType : ${T(com.ttndemo.thymleafintro.enums.AdminType).values()}"
+            th:value="${userType.getValue()}" th:text="${userType.getValue()}"></option>
+</select><br><br>
+<button id="display">Get Message</button>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+<script>
+    $(function f() {
+            $('#display').click(function displayMessage() {
+                if($('#userType').val()=="User")
+                    alert("Hello User");
+                else if($('#userType').val()=="Admin")
+                    alert("Hello Admin");
+                else if($('#userType').val()=="Super_Admin")
+                    alert("Hello Super_Admin");
+            })
+        }
+    )
+</script>
+</body>
+</html>

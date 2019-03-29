@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercise 8</title>
+</head>
+<body>
+<header th:replace="Question6::header"></header>
+<table border="1">
+<tr th:each="employee,itr:${employees}" th:style="${itr.odd}?'color:red':''">
+    <td th:text="${employee}"></td>
+</tr>
+</table><br><br><br><br><br><br><br><br><br><br><br>
+<footer th:replace="Question6::footer"></footer>
+</body>
+</html>

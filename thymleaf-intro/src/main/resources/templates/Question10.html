@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercise 10</title>
+</head>
+<body>
+<form method="post" id="register">
+    <label> Name: </label>
+    <input type="text" name="name"/><br>
+    <label>Age: </label>
+    <input type="text" name="age"/><br>
+    <label>Is Admin ? </label>
+    <input type="radio" name="isAdmin" value="true">True</input>
+    <input type="radio" name="isAdmin" value="false">False</input><br>
+    <input type="submit" value="Submit">
+</form>
+<img th:src="@{/loader.gif}" id="loader"/>
+<div id="data"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+<script th:src="@{/ques10.js}"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymleaf.com">
+<head>
+    <meta charset="UTF-8">
+    <title>Excersize 5</title>
+</head>
+<body>
+<h3 th:text="${name}"></h3>
+<h3 th:text="${age}"></h3>
+<h2 th:if="${isAdmin}"> Hello Admin!!</h2>
+<h2 th:unless="${isAdmin}">Hello User !!</h2>
+</body>
+</html>
