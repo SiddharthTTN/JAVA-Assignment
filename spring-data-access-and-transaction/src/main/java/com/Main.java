@@ -62,6 +62,22 @@ public class Main {
         userDaoRepo.getCountHibernate();
         System.out.println();
 
+        System.out.println("Adding User..");
+        userDaoRepo.insert();
+        System.out.println();
+
+        System.out.println("Demonstrating read-only," +
+                "timeout," +
+                "rollback-for," +
+                "no-rollback-for.");
+        //ReadOnly
+        userDaoRepo.insert2();
+        //Timeout
+        userDaoRepo.insert3();
+        //RollbackFor
+        userDaoRepo.insert4();
+        //NoRollbackFor
+        userDaoRepo.insert5();
 
     }
 
