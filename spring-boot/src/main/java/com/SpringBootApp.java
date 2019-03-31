@@ -24,8 +24,8 @@ public class SpringBootApp {
 
     @Bean
     User getUser() {
-        String username = "yatin";
-        String password = "blabla";
+        String username = "Siddharth";
+        String password = "password";
         return new User(username, password);
     }
 
