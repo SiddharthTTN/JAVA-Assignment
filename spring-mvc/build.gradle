@@ -1,18 +1,27 @@
-apply plugin: 'war'
-apply plugin: 'com.bmuschko.tomcat'
 buildscript {
     repositories {
         jcenter()
     }
-
     dependencies {
         classpath 'com.bmuschko:gradle-tomcat-plugin:2.2.2'
     }
 }
+
 repositories {
     mavenCentral()
     jcenter()
 }
+
+apply plugin: 'java'
+apply plugin: 'war'
+apply plugin: 'com.bmuschko.tomcat'
+
+group 'ttn.spring'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+
 dependencies {
     providedCompile 'javax.servlet:servlet-api:2.5', 'javax.servlet:jsp-api:2.0'
     compile 'org.springframework:spring-webmvc:4.2.5.RELEASE'
@@ -20,7 +29,6 @@ dependencies {
     tomcat "org.apache.tomcat.embed:tomcat-embed-core:${tomcatVersion}",
             "org.apache.tomcat.embed:tomcat-embed-logging-juli:${tomcatVersion}",
             "org.apache.tomcat.embed:tomcat-embed-jasper:${tomcatVersion}"
-    compile('org.springframework:spring-context:5.0.6.RELEASE')
 }
 tomcatRun {
     contextPath = ""
